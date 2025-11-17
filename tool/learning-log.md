@@ -11,7 +11,10 @@
 [Swift beginer playlist](https://www.youtube.com/playlist?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB)
 
 ### 11/02/2025:
-* This week I created the repository on xcode and started changing the most basic things on it. 
+* This week I created the repository on xcode and started changing the most basic things on it.
+
+### 11/16/2025
+* This week I started working on the bar on the bottom that would be used to switch between content. 
 
 
 <!--
