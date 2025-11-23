@@ -14,8 +14,10 @@
 * This week I created the repository on xcode and started changing the most basic things on it.
 
 ### 11/16/2025
-* This week I started working on the bar on the bottom that would be used to switch between content. 
+* This week I started working on the bar on the bottom that would be used to switch between content.
 
+### 11/23/2025
+* i started to work on what goes on each page for each of the unique tabs. 
 
 <!--
 * Links you used today (websites, videos, etc)
