@@ -17,7 +17,10 @@
 * This week I started working on the bar on the bottom that would be used to switch between content.
 
 ### 11/23/2025
-* i started to work on what goes on each page for each of the unique tabs. 
+* i started to work on what goes on each page for each of the unique tabs.
+
+### 12/07/2025
+* I have begun working on the button and interacting part of each page. 
 
 <!--
 * Links you used today (websites, videos, etc)
