@@ -20,7 +20,10 @@
 * i started to work on what goes on each page for each of the unique tabs.
 
 ### 12/07/2025
-* I have begun working on the button and interacting part of each page. 
+* I have begun working on the button and interacting part of each page.
+
+### 12/14/2025
+* I had mostly finsih what I wanted on the first tab of the five on what a home page would look like. 
 
 <!--
 * Links you used today (websites, videos, etc)
