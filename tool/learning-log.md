@@ -23,8 +23,10 @@
 * I have begun working on the button and interacting part of each page.
 
 ### 12/14/2025
-* I had mostly finsih what I wanted on the first tab of the five on what a home page would look like. 
+* I had mostly finsih what I wanted on the first tab of the five on what a home page would look like.
 
+### 01/14/2025
+* I have seen that the `struct` property can be rediected to something else and can be used as a class would solving compatibiltity and organization while creating the different tabs. 
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
