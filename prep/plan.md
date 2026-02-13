@@ -1,7 +1,7 @@
 # Plan
 
-## Tool: 
-## Product: 
+## Tool: Swift
+## Product: Storage App
 
 ---
 
@@ -9,13 +9,22 @@
 
 #### MVP
 
-- [ ] Task (deadline: X)
-  - [ ] Subtask (deadline: X)
-
+- [ ] Make the frame of what I want the app to look like (deadline: 2/23)
+  - [ ] Add a line of what should go there (deadline: 2/23)
+- [ ] Add Content to the first page (deadline: 2/23)
+  - [ ] Add Functionality (deadline: 3/2)
+- [ ] Add Content to the second page (deadline: 3/2)
+  - [ ] Add Functionality (deadline: 3/9)
+- [ ] Add Content to the third page (deadline: 3/9)
+  - [ ] Add Functionality (deadline: 3/16)
+- [ ] Add Content to the fourth page (deadline: 3/16)
+  - [ ] Add Functionality (deadline: 3/23)
+- [ ] Add Content to the fifth page (deadline: 3/23)
+  - [ ] Add Functionality (deadline: 3/30)
 #### Beyond MVP
 
-- [ ] Task
-  - [ ] Subtask
+- [ ] Beautification of the tabs(user experience)
+  - [ ] small things that could be enjoy and cause better experience
 
 
 <!-- EXAMPLE
@@ -49,7 +58,7 @@
 
 <!-- DO NOT USE THIS YET
 
-#### Peer Feedback 
+#### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
