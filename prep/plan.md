@@ -9,8 +9,8 @@
 
 #### MVP
 
-- [ ] Make the frame of what I want the app to look like (deadline: 2/23)
-  - [ ] Add a line of what should go there (deadline: 2/23)
+- [X] Make the frame of what I want the app to look like (deadline: 2/23)
+  - [X] Add a line of what should go there (deadline: 2/23)
 - [ ] Add Content to the first page (deadline: 2/23)
   - [ ] Add Functionality (deadline: 3/2)
 - [ ] Add Content to the second page (deadline: 3/2)
