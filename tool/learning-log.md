@@ -29,7 +29,10 @@
 * I have seen that the `struct` property can be rediected to something else and can be used as a class would solving compatibiltity and organization while creating the different tabs.
 
 ### 03/08/2026
-* The continuation of the MVP was to create vetical boxes that will eventually hold the pieces of information that would want to be held. Something that happened was when giving it a rounded edge the middle of the edge is missing and does not have a border. I will probably get rid of it if I can't fix it. 
+* The continuation of the MVP was to create vetical boxes that will eventually hold the pieces of information that would want to be held. Something that happened was when giving it a rounded edge the middle of the edge is missing and does not have a border. I will probably get rid of it if I can't fix it.
+
+### 03/22/2026
+* This week I spent fixing the way the boxes function having them rotate rather than be a replace type style. 
 
 <!--
 * Links you used today (websites, videos, etc)
