@@ -2,10 +2,10 @@
 ##### 03/15/2026
 
 ### Swift
-This week I spend working on the first tab which to me should have a reminder for each day of the week and therefore 7 boxes on the tab to which you scroll from top to bottom as i could not find a way to ttie it with the date to which box is on the top though I can try and figrue it out later. 
+This week I spend working on the first tab which to me should have a reminder for each day of the week and therefore 7 boxes on the tab to which you scroll from top to bottom as i could not find a way to tie it with the date to which box is on the top though I can try and figrue it out later.
 
 ### EDP
-When I began learning swift doing something different for each page was easier as you'd practice this and not cross them with anything else leading to smooth code but not future proof code. However when adding different function to the page it made it bug saying that the variable had to be defined aleady or were not in scope. Upon looking up what could be a cause of this error it said that the initial one defining could be the source of the code failing to execute and therefore tried changing the following from all tabs being in one `stuct contentView: View` to seperate `struct FirstTabView: View` and so one to individually represent each tab and hopefully avoid future scope errors.
+When I began learning the boxes there was two problems that affected how the page could've worked since to establish the boxes I created an array of the days and what color the box should be and the first way that I made it work was having be a rotating category to which I believe was making the whole array rotate but the output was the top box being rotated for the day it was so if it was Wednesday 
 
 ### Skills
 #### How to Learn
