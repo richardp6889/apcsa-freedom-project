@@ -11,20 +11,20 @@
 
 - [X] Make the frame of what I want the app to look like (deadline: 2/23)
   - [X] Add a line of what should go there (deadline: 2/23)
-- [ ] Add Content to the first page (deadline: 2/23)
-  - [ ] Add Functionality (deadline: 3/2)
-- [ ] Add Content to the second page (deadline: 3/2)
-  - [ ] Add Functionality (deadline: 3/9)
-- [ ] Add Content to the third page (deadline: 3/9)
-  - [ ] Add Functionality (deadline: 3/16)
-- [ ] Add Content to the fourth page (deadline: 3/16)
-  - [ ] Add Functionality (deadline: 3/23)
-- [ ] Add Content to the fifth page (deadline: 3/23)
-  - [ ] Add Functionality (deadline: 3/30)
+- [X] Add Content to the first page (deadline: 2/23)
+  - [X] Add Functionality (deadline: 3/2)
+- [X] Add Content to the second page (deadline: 3/2)
+  - [X] Add Functionality (deadline: 3/9)
+- [X] Add Content to the third page (deadline: 3/16)
+  - [X] Add Functionality (deadline: 3/23)
+- [X] Add Content to the fourth page (deadline: 3/23)
+  - [X] Add Functionality (deadline: 3/30)
 #### Beyond MVP
 
-- [ ] Beautification of the tabs(user experience)
-  - [ ] small things that could be enjoy and cause better experience
+-[ ] Scrolling made easier from drag to scroll
+-[ ] Beautification (user experience)
+-[ ] Visuals?
+-[ ] Fix Box change color 
 
 
 <!-- EXAMPLE
