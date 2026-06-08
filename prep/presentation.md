@@ -1,16 +1,19 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Do you every feel disorganized, well speaking from experience I certainly do
 
 ## Product
-* 
+* Video showing how the product works and then showing how someone woukd navigate throught them
 
 ## Process
-* 
+* I wanted orginally 5 tabs but narrowed it down to 4 since one was usefless for the overall function, worked every week on one tab to make it functional afterwords making it better visually to fit a smooth theme.
+* Code snippets of the boxes for recipes since they can be created and third tab to show changes for the fit to be better than before, the first tab and how they shuffle based on the day.
 
 ## Conclusion
-* 
+* Takeaways
+make sure you have something simply but functional
+Find different ways to learn since I learned more from other sources than official documentation 
 
 <!-- EXAMPLE
 

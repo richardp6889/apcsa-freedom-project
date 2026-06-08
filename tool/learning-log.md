@@ -32,7 +32,12 @@
 * The continuation of the MVP was to create vetical boxes that will eventually hold the pieces of information that would want to be held. Something that happened was when giving it a rounded edge the middle of the edge is missing and does not have a border. I will probably get rid of it if I can't fix it.
 
 ### 03/22/2026
-* This week I spent fixing the way the boxes function having them rotate rather than be a replace type style. 
+* This week I spent fixing the way the boxes function having them rotate rather than be a replace type style.
+
+### 03/29/2026
+* This week I spend on the fourth tab which should be similar to the notes app in which it is a title and then a editable text box in which it can be changed by the person that could be changed that could be 
+
+
 
 <!--
 * Links you used today (websites, videos, etc)
