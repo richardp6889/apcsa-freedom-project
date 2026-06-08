@@ -1,22 +1,23 @@
 # APCSA Freedom Project
-by **X**
+by **Richard Perez**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for AP Computer Science A is a year-long project all about making anything using technology.
 
-For my project, I chose to independently study **X** in order to help me make **X**.
+For my project, I chose to independently study **Swift** in order to help me make **Storage App**.
 
 ## Links
 
-[Product]()
+[Product](https://drive.google.com/file/d/1IL1zO_3mHgP5sN6hodfR4ALDtPaqZ3PS/view)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1rXRwwRtLUkQLOlYni784jFK2v7sBcq1trgtzMa5DkzA/edit?slide=id.g3dbeabbf499_0_0#slide=id.g3dbeabbf499_0_0)
 
 ## Implications
 ##### PROS
-* 
+* Organization of thoughts and recipes
+* Structure to daily routine
 ##### CONS
-* 
+* Reliant on a device to write down things 
 
 
 ## Blog
